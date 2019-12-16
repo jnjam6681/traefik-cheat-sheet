@@ -18,5 +18,5 @@ entrypoint = "dashboard"
 
   [entryPoints.dashboard]
   address = ":8080"
-    [entryPoints.dashboard.auth.basic]
-    users = ["admin:$2y$05$e2CN9/A0dntKmtR/sysuSuY34NOWvkYrxKevZxH1zxm4k.SNisigy"]
+    # [entryPoints.dashboard.auth.basic]
+    # users = ["admin:$2y$05$e2CN9/A0dntKmtR/sysuSuY34NOWvkYrxKevZxH1zxm4k.SNisigy"]
