@@ -9,3 +9,5 @@ echo
 echo
 mv ./tls.* ./certs
 echo "Move to certs folder"
+echo
+echo
